@@ -61,7 +61,7 @@ Software i use fo my front, back and full stack projects
       <td>GIMP</td>
     </tr>
     <tr>
-      <td>Ubnsplash</td>
+      <td>Unsplash</td>
     </tr>
     <tr>
       <td>Transmission</td>
