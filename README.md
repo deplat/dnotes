@@ -37,6 +37,9 @@ Software i use fo my front, back and full stack projects
       <td>node.js</td>
     </tr>
     <tr>
+      <td>npm</td>
+    </tr>
+    <tr>
       <td>express.js</td>
     </tr>
     <tr>
